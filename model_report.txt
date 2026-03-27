@@ -1,0 +1,59 @@
+F1 Race Predictor — Model Report
+Generated: 2026-03-27 16:53:54
+Training data: 2021–2025 F1 seasons
+Dataset size: 2000 rows, 13 features
+
+============================================================
+MODEL COMPARISON (TimeSeriesSplit CV F1)
+============================================================
+  XGBoost                       : F1 = 0.828 <-- SELECTED
+  Random Forest                 : F1 = 0.826
+  Gradient Boosting             : F1 = 0.822
+  Logistic Regression           : F1 = 0.767
+
+============================================================
+BEST MODEL: XGBoost
+============================================================
+
+Classification Report (final fold):
+              precision    recall  f1-score   support
+
+   No Podium       0.97      0.97      0.97       285
+      Podium       0.83      0.81      0.82        48
+
+    accuracy                           0.95       333
+   macro avg       0.90      0.89      0.90       333
+weighted avg       0.95      0.95      0.95       333
+
+
+============================================================
+PER-FOLD METRICS (XGBoost)
+============================================================
+    Fold   Precision    Recall        F1
+  Fold 1       0.894     0.824     0.857
+  Fold 2       0.946     0.714     0.814
+  Fold 3       0.897     0.700     0.787
+  Fold 4       0.932     0.804     0.863
+  Fold 5       0.830     0.812     0.821
+
+============================================================
+CONFUSION MATRIX (XGBoost, all folds combined)
+============================================================
+  TP=192  FP=22  FN=57  TN=1394
+
+============================================================
+FEATURE IMPORTANCES
+============================================================
+   1. quali_gap_to_pole                   0.4212
+   2. rolling_points_5                    0.1391
+   3. podiums_last_5                      0.1320
+   4. rolling_finish_5                    0.0736
+   5. career_podium_rate                  0.0576
+   6. driver_championship_pos             0.0428
+   7. constructor_championship_pos        0.0392
+   8. career_win_rate                     0.0214
+   9. dnf_rate                            0.0204
+  10. driver_experience                   0.0168
+  11. circuit_id                          0.0159
+  12. driver_encoded                      0.0111
+  13. best_finish_at_circuit              0.0088
