@@ -1,5 +1,5 @@
 # Formula-1-Race-Predictor-
-Machine learning web app that predicts Formula 1 podium finishes using driver performance, qualifying data and circuit history. Built by Hayder Sayyid
+Machine learning web app that predicts Formula 1 podium finishes using driver performance, qualifying data and circuit history. Built by Hayder Sayyid.
 
 Predicts the probability of an F1 driver finishing on the podium (top 3), trained on 2021–2025 race data.
 
