@@ -1,0 +1,21 @@
+statusId,status
+1,Finished
+2,+1 Lap
+3,+2 Laps
+4,+3 Laps
+5,+4 Laps
+6,+5 Laps
+7,+6 Laps
+8,+7 Laps
+9,+8 Laps
+10,+9 Laps
+11,Accident
+12,Engine
+13,Gearbox
+14,Hydraulics
+15,Electrical
+16,Brakes
+17,Collision
+18,Power Unit
+19,Suspension
+20,Retired

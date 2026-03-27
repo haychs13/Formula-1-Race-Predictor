@@ -1,0 +1,35 @@
+driverId,driverRef,fullName,forename,surname,code,number,dob,nationality,isActive,url
+1,albon,Alexander Albon,Alexander,Albon,ALB,23,1996-03-23,Thai,1,https://en.wikipedia.org/wiki/Alexander_Albon
+2,alonso,Fernando Alonso,Fernando,Alonso,ALO,14,1981-07-29,Spanish,1,https://en.wikipedia.org/wiki/Fernando_Alonso
+3,antonelli,Andrea K. Antonelli,Andrea K.,Antonelli,ANT,12,2006-08-25,Italian,1,https://en.wikipedia.org/wiki/Kimi_Antonelli
+4,bearman,Oliver Bearman,Oliver,Bearman,BEA,87,2005-05-08,British,1,https://en.wikipedia.org/wiki/Oliver_Bearman
+5,bortoleto,Gabriel Bortoleto,Gabriel,Bortoleto,BOR,5,2004-10-14,Brazilian,1,https://en.wikipedia.org/wiki/Gabriel_Bortoleto
+6,bottas,Valtteri Bottas,Valtteri,Bottas,BOT,77,1989-08-28,Finnish,0,https://en.wikipedia.org/wiki/Valtteri_Bottas
+7,colapinto,Franco Colapinto,Franco,Colapinto,COL,43,2003-05-27,Argentine,0,https://en.wikipedia.org/wiki/Franco_Colapinto
+8,de_vries,Nyck de Vries,Nyck,de Vries,DEV,21,1995-02-06,Dutch,0,https://en.wikipedia.org/wiki/Nyck_de_Vries
+9,doohan,Jack Doohan,Jack,Doohan,DOO,7,2003-01-20,Australian,1,https://en.wikipedia.org/wiki/Jack_Doohan
+10,gasly,Pierre Gasly,Pierre,Gasly,GAS,10,1996-02-07,French,1,https://en.wikipedia.org/wiki/Pierre_Gasly
+11,giovinazzi,Antonio Giovinazzi,Antonio,Giovinazzi,GIO,99,1993-12-14,Italian,0,https://en.wikipedia.org/wiki/Antonio_Giovinazzi
+12,hadjar,Isack Hadjar,Isack,Hadjar,HAD,6,2004-09-28,French,1,https://en.wikipedia.org/wiki/Isack_Hadjar
+13,hamilton,Lewis Hamilton,Lewis,Hamilton,HAM,44,1985-01-07,British,1,https://en.wikipedia.org/wiki/Lewis_Hamilton
+14,hulkenberg,Nico Hulkenberg,Nico,Hulkenberg,HUL,27,1987-08-19,German,1,https://en.wikipedia.org/wiki/Nico_Hulkenberg
+15,latifi,Nicholas Latifi,Nicholas,Latifi,LAT,6,1995-06-29,Canadian,0,https://en.wikipedia.org/wiki/Nicholas_Latifi
+16,lawson,Liam Lawson,Liam,Lawson,LAW,40,2002-02-11,New Zealander,1,https://en.wikipedia.org/wiki/Liam_Lawson
+17,leclerc,Charles Leclerc,Charles,Leclerc,LEC,16,1997-10-16,Monegasque,1,https://en.wikipedia.org/wiki/Charles_Leclerc
+18,magnussen,Kevin Magnussen,Kevin,Magnussen,MAG,20,1992-10-05,Danish,0,https://en.wikipedia.org/wiki/Kevin_Magnussen
+19,mazepin,Nikita Mazepin,Nikita,Mazepin,MAZ,9,1999-03-02,Russian,0,https://en.wikipedia.org/wiki/Nikita_Mazepin
+20,norris,Lando Norris,Lando,Norris,NOR,4,1999-11-13,British,1,https://en.wikipedia.org/wiki/Lando_Norris
+21,ocon,Esteban Ocon,Esteban,Ocon,OCO,31,1996-09-17,French,1,https://en.wikipedia.org/wiki/Esteban_Ocon
+22,perez,Sergio Perez,Sergio,Perez,PER,11,1990-01-26,Mexican,0,https://en.wikipedia.org/wiki/Sergio_Perez
+23,piastri,Oscar Piastri,Oscar,Piastri,PIA,81,2001-04-06,Australian,1,https://en.wikipedia.org/wiki/Oscar_Piastri
+24,raikkonen,Kimi Raikkonen,Kimi,Raikkonen,RAI,7,1979-10-17,Finnish,0,https://en.wikipedia.org/wiki/Kimi_Raikkonen
+25,ricciardo,Daniel Ricciardo,Daniel,Ricciardo,RIC,3,1989-07-01,Australian,0,https://en.wikipedia.org/wiki/Daniel_Ricciardo
+26,russell,George Russell,George,Russell,RUS,63,1998-02-15,British,1,https://en.wikipedia.org/wiki/George_Russell_(racing_driver)
+27,sainz,Carlos Sainz,Carlos,Sainz,SAI,55,1994-09-01,Spanish,1,https://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
+28,sargeant,Logan Sargeant,Logan,Sargeant,SAR,2,2000-12-31,American,0,https://en.wikipedia.org/wiki/Logan_Sargeant
+29,schumacher,Mick Schumacher,Mick,Schumacher,MSC,47,1999-03-22,German,0,https://en.wikipedia.org/wiki/Mick_Schumacher
+30,stroll,Lance Stroll,Lance,Stroll,STR,18,1998-10-29,Canadian,1,https://en.wikipedia.org/wiki/Lance_Stroll
+31,tsunoda,Yuki Tsunoda,Yuki,Tsunoda,TSU,22,2000-05-11,Japanese,1,https://en.wikipedia.org/wiki/Yuki_Tsunoda
+32,verstappen,Max Verstappen,Max,Verstappen,VER,1,1997-02-15,Dutch,1,https://en.wikipedia.org/wiki/Max_Verstappen
+33,vettel,Sebastian Vettel,Sebastian,Vettel,VET,5,1987-07-03,German,0,https://en.wikipedia.org/wiki/Sebastian_Vettel
+34,zhou,Guanyu Zhou,Guanyu,Zhou,ZHO,24,2000-06-30,Chinese,0,https://en.wikipedia.org/wiki/Zhou_Guanyu

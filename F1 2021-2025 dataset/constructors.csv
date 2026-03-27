@@ -1,0 +1,11 @@
+constructorId,constructorRef,name,formerName,nationality,isActive,url
+1,alpine,Alpine F1 Team,Renault F1 Team,French,1,https://en.wikipedia.org/wiki/Alpine_F1_Team
+2,aston_martin,Aston Martin,Racing Point,British,1,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One
+3,ferrari,Ferrari,,Italian,1,https://en.wikipedia.org/wiki/Scuderia_Ferrari
+4,haas,Haas F1 Team,,American,1,https://en.wikipedia.org/wiki/Haas_F1_Team
+5,kick_sauber,Kick Sauber,Alfa Romeo,Swiss,1,https://en.wikipedia.org/wiki/Sauber_Motorsport
+6,mclaren,McLaren,,British,1,https://en.wikipedia.org/wiki/McLaren
+7,mercedes,Mercedes,,German,1,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+8,rb,RB F1 Team,AlphaTauri,Italian,1,https://en.wikipedia.org/wiki/RB_Formula_One_Team
+9,red_bull,Red Bull Racing,,Austrian,1,https://en.wikipedia.org/wiki/Red_Bull_Racing
+10,williams,Williams Racing,,British,1,https://en.wikipedia.org/wiki/Williams_Racing
