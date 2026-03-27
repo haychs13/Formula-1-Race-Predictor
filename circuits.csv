@@ -1,0 +1,29 @@
+circuitId,circuitRef,name,location,country,lat,lng,alt
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10
+2,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,7
+3,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,-7
+4,barcelona,Circuit de Barcelona-Catalunya,Montmelo,Spain,41.57,2.2611,109
+5,cota,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161
+6,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264
+7,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37
+8,interlagos,Autodromo Jose Carlos Pace,Sao Paulo,Brazil,-23.7036,-46.6997,785
+9,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,130
+10,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6321,39.1044,15
+11,las_vegas,Las Vegas Strip Street Circuit,Las Vegas,USA,36.1162,-115.1736,642
+12,losail,Lusail International Circuit,Lusail,Qatar,25.49,51.4542,10
+13,miami,Miami International Autodrome,Miami,USA,25.958,-80.2389,0
+14,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.4206,7
+15,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.2811,162
+16,paul_ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.7917,432
+17,portimao,Algarve International Circuit,Portimao,Portugal,37.227,-8.6267,108
+18,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678
+19,rodriguez,Autodromo Hermanos Rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227
+20,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,5
+21,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.0169,153
+22,singapore,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,18
+23,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2
+24,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.9714,401
+25,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,45
+26,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13
+27,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3
+28,zandvoort,Circuit Zandvoort,Zandvoort,Netherlands,52.3888,4.5409,6
