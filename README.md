@@ -7,6 +7,8 @@ Make sure you have **Python** and **pip** installed. You can download Python fro
 
 ---
 
+> **Note:** On first run Streamlit may ask for an email address 
+> in the terminal — just press **Enter** to skip it.
 ## Windows (No Git Required)
 
 1. Click the green **Code** button on this page → **Download ZIP**
