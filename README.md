@@ -6,7 +6,7 @@ Predicts the probability of an F1 driver finishing on the podium (top 3), traine
 Make sure you have **Python** and **pip** installed. You can download Python from https://python.org — pip is included automatically.
 
 ---
-
+## Quick Start
 > **Note:** On first run Streamlit may ask for an email address 
 > in the terminal — just press **Enter** to skip it.
 ## Windows (No Git Required)
