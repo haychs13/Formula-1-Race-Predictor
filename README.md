@@ -3,7 +3,7 @@ Machine learning web app that predicts Formula 1 podium finishes using driver pe
 
 Predicts the probability of an F1 driver finishing on the podium (top 3), trained on 2021–2025 race data.
 
-Make sure you have **Python** and **pip** installed. You can download Python from https://python.org — pip is included automatically.
+Make sure you have **Python** and **pip** installed. You can download Python from https://python.org or from the windows store — pip is included automatically with either one.
 
 ---
 ## Quick Start
